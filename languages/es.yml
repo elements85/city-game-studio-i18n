@@ -4,15 +4,15 @@ es:
   BUTTON_ANNOUNCE: Anuncia el juego
   BUTTON_NEW_GAME: Nuevo juego
   BUTTON_HIRE: Alquiler
-  BUTTON_APPLY: Aplicar
-  BUTTON_BACK: Retroceder
+  BUTTON_APPLY: Aceptar
+  BUTTON_BACK: Atras
   BUTTON_BUILD_MODE: Modo construcción
   BUTTON_BUILDING_RENT: Alquilar
   BUTTON_CANCEL: Cancelar
   BUTTON_CLOSE: Cerrar
   BUTTON_CREDITS: Créditos
   BUTTON_EXIT: Salir
-  BUTTON_FIRE: Fuego
+  BUTTON_FIRE: Despedir
   BUTTON_LOAD: Cargar
   BUTTON_LOAD_GAME: Cargar juego
   BUTTON_MAIN_MENU: Menú principal
@@ -21,7 +21,7 @@ es:
   BUTTON_OPTIONS: Opciones
   BUTTON_RESET: Reiniciar
   BUTTON_SKIP: Omitir
-  BUTTON_START: Comenzar
+  BUTTON_START: Iniciar
   BUTTON_NEED_STUDIO: No hay estudio disponible
   BUTTON_CLEAR_EVENTS: Completado
   BUTTON_TOO_BAD: Muy mal
@@ -51,7 +51,7 @@ es:
   BUTTON_FEEDBACK: Retroalimentación
   DROPDOWN_LANGUAGE: Idiomas
   BUTTON_CRACK_GAME: Enfrentar un juego
-  BUTTON_FORCE_STUDIO_SELL: Fuerza venta de estudio
+  BUTTON_FORCE_STUDIO_SELL: Forzar venta de estudio
   BUTTON_SPY: Espiar a un competidor
   BUTTON_HIRE_THEIR_EMPLOYE: Contratar a su empleado
   BUTTON_SELECT: Seleccionar
@@ -967,7 +967,7 @@ es:
   TOOLTIP_RECRUIT: Lista de posibles candidatos disponibles en la ciudad.
   TOOLTIP_PORTFOLIO: Lista todos los juegos que has hecho hasta ahora.
   TOOLTIP_OPTION: Parámetros y opciones
-  TOOLTIP_EXIT: Volver a Linux
+  TOOLTIP_EXIT: Salir
   TOOLTIP_STUDIOS: Lista tus estudios
   TOOLTIP_STUDIOLIST: Lista de oficinas disponibles en la ciudad.
   TOOLTIP_CONSTRUCT: |
@@ -1042,7 +1042,7 @@ es:
   MARKETING_CAMPAIGN_MAGAZINE: Campaña publicitaria en la prensa
   MARKETING_CAMPAIGN_TV: Campaña de publicidad en televisión
   MARKETING_CAMPAIGN_INTERNET: Campaña de publicidad online
-  CONCURRENT_STUDIOS_LIST: Lista de los competidores
+  CONCURRENT_STUDIOS_LIST: Lista de competidores
   CONCURRENT_STUDIOS_BUY: Comprar a la competencia
   FURNITURES_COMMON_BUY: Comprar muebles
   EMPLOYEES_HIRE: Contratar personal
